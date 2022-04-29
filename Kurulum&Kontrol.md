@@ -13,7 +13,7 @@
 # Criteo etiketlerinin kontrol edilmesi & optimizasyonu
 
  1. Criteo'da sol gezinme panelinden Events tracking bölümüne girin.
-<img width="665" alt="Ekran Resmi 2022-04-29 10 08 48" src="https://user-images.githubusercontent.com/103422157/165899503-9c82c85f-5f17-4e39-8b0d-fb5a69fa25c5.png">
+<img width="665" alt="Ekran Resmi 2022-04-29 10 08 48" src="https://user-images.githubusercontent.com/103422157/165902222-e8b3d13a-923d-42df-8ce6-6aa0fedaf465.png">
 
  2. Açılan sayfada son 48 saat içerisinde etiketlerin durumları belirtilmektedir. Burada kırmızı olarak işaretli uyarılar mutlaka düzenlenmelidir.
 <img width="666" alt="Ekran Resmi 2022-04-29 10 10 09" src="https://user-images.githubusercontent.com/103422157/165899550-f99d464b-5017-4b4e-aaf5-711079a7bc29.png">
